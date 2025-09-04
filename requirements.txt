@@ -1,0 +1,6 @@
+google-play-scraper
+pandas
+numpy
+groq
+sentence-transformers
+faiss-cpu
